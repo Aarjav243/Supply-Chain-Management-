@@ -1,6 +1,6 @@
 # 🚚 Supply Chain Risk Prediction (GNN)
 
-This project uses a Graph Neural Network (GNN) to predict the risk of delivery delays in a supply chain network.
+AI-powered supply chain risk predictor using Graph Neural Networks (GNN). Treats shipping routes as interconnected networks to model contagion effects. Identifies vulnerable cities & high-risk routes with 66% accuracy.
 
 ## 🚀 Deployment Instructions for Render
 
